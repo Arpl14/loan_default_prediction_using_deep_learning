@@ -4,7 +4,7 @@
 
 ## 📌 Project Overview
 
-This project aims to predict **loan default risk** using a comprehensive dataset from the [Home Credit Default Risk](https://www.kaggle.com/competitions/home-credit-default-risk/) Kaggle competition. By leveraging **machine learning** and **deep learning models**, the goal is to identify customers most likely to **default on a loan**, enabling smarter, safer lending practices and promoting **financial inclusion** for underbanked populations.
+This project aims to predict **loan default risk** using a comprehensive dataset from Kaggle. By leveraging **machine learning** and **deep learning models**, the goal is to identify customers most likely to **default on a loan**, enabling smarter, safer lending practices and promoting **financial inclusion** for underbanked populations.
 
 ---
 
